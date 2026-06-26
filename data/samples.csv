@@ -1,0 +1,5 @@
+run,sample,patient,condition
+SRR222175,RNA_seq_P1N,P1,Normal
+SRR222176,RNA_seq_P1T,P1,Tumor
+SRR222177,RNA_seq_P2N,P2,Normal
+SRR222178,RNA_seq_P2T,P2,Tumor
