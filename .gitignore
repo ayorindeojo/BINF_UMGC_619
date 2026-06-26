@@ -20,3 +20,6 @@ data/*.sra
 
 # featureCounts summary files
 *.summary
+
+# SRA prefetch folders
+SRR*/
