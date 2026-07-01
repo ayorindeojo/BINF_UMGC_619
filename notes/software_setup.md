@@ -30,4 +30,4 @@ UMGC Virtual Machine
 
 The UMGC VM includes MultiQC v1.12 by default. During quality control, the report generated with v1.12 failed to render interactive plots because it attempted to load external Highcharts JavaScript libraries that returned HTTP 403 errors.
 
-To resolve this issue, a separate Conda environment (`multiqc_new`) was created with MultiQC v1.35. The QC report was regenerated successfully using v1.35, and all interactive plots rendered correctly.
+To resolve this issue, a separate Conda environment (multiqc_new) was created with MultiQC v1.35. The QC report was regenerated successfully using v1.35, and all interactive plots rendered correctly.
