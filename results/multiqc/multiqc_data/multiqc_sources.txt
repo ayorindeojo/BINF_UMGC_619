@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR222177	/home/StudentFirst/BINF_UMGC_619/results/fastqc/SRR222177_fastqc.zip
+FastQC	all_sections	SRR222178	/home/StudentFirst/BINF_UMGC_619/results/fastqc/SRR222178_fastqc.zip
+FastQC	all_sections	SRR222175	/home/StudentFirst/BINF_UMGC_619/results/fastqc/SRR222175_fastqc.zip
+FastQC	all_sections	SRR222176	/home/StudentFirst/BINF_UMGC_619/results/fastqc/SRR222176_fastqc.zip

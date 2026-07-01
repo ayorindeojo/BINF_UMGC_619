@@ -8,9 +8,6 @@ data/*.sra
 *.bam
 *.bai
 
-# QC reports
-*.html
-*.zip
 
 # HISAT2 index files
 *.ht2
