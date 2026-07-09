@@ -1,0 +1,15 @@
+Status	results/bam/SRR222175.sam	results/bam/SRR222176.sam	results/bam/SRR222177.sam	results/bam/SRR222178.sam
+Assigned	5781368	5564339	7082188	7515486
+Unassigned_Unmapped	389260	334850	572312	479111
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	3638774	2889991	3249759	3741244
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	550416	254331	313708	368960
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	549447	768862	885473	887203
