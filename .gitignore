@@ -20,3 +20,15 @@ data/*.sra
 
 # SRA prefetch folders
 SRR*/
+
+# Cleaned reads
+data/cleaned/
+
+# Reference genome
+reference/
+
+# Alignment files
+results/bam/
+
+# HISAT2 indexes
+*.ht2
